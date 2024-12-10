@@ -8,13 +8,14 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 - [Developer Tools](#developer-tools)
 - [Productivity](#productivity)
 - [Others](#others)
+- [Web3 & NFT](#web3--nft)
 
 ## AI & Machine Learning
 
 *Upcoming AI products*
 
 - [Exa](https://exa.ai/websets) - AI-verified semantic search with clean interface and natural language queries
-
+- [Reka Space](https://www.reka.ai/space) - AI-powered infinite canvas that transforms ideas into actions. Features non-linear conversations, customizable memory, and interactive AI agents for collaborative brainstorming and project planning.
 
 ## Developer Tools
 
@@ -30,6 +31,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 - [Notion Mail](https://www.notion.com/product/mail) - Modern email client with AI-powered organization and automation
 - [Diabrowser](https://www.diabrowser.com/) - AI won’t exist as an app. Or a button. it’ll be an entirely new environment built on top of a web browser.
+- [Raycast for Windows](https://www.raycast.com/windows) - The popular developer productivity tool with AI features, clipboard history, window management, and extensible command palette coming to Windows
 
 ## Others
 
@@ -37,6 +39,12 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 - [werebuilding.ai](https://werebuilding.ai/) - A startup jointly founded by three former Google employees. They had previously participated in the development and productization of NotebookLM at Google. No one knows what they are up to.
 
+## Web3 & NFT
+
+*Future Web3 and NFT platforms*
+
+- [OpenSea](https://opensea.io/waitlist) - A new OpenSea is coming. December 2024.
+- [Anime.com](https://www.anime.com/) - A new way to anime. Developed by Azuki in partnership with Aniplex of America and Arbitrum Foundation, bringing web3 innovation to anime content, gaming, and collectibles. Features community-driven development and blockchain integration.
 
 ## Contributing
 
