@@ -45,6 +45,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 - [OpenSea](https://opensea.io/waitlist) - A new OpenSea is coming. December 2024.
 - [Anime.com](https://www.anime.com/) - A new way to anime. Developed by Azuki in partnership with Aniplex of America and Arbitrum Foundation, bringing web3 innovation to anime content, gaming, and collectibles. Features community-driven development and blockchain integration.
+- [.sonic](https://get.unstoppabledomains.com/sonic-waitlist/) - Unstoppable Domains has partnered with Sonic Labs to offer .sonic domains, providing users with unique digital identities within Sonic’s high-speed blockchain ecosystem. By joining the waitlist, you can secure your preferred .sonic domain before its public release. ￼
 
 ## Contributing
 
