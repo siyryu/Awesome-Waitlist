@@ -23,7 +23,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 - [GitHub Spark](https://github.com/github_spark_waitlist_signup/join) - AI-powered platform for creating and sharing personalized micro apps without code
 - [GitHub Copilot Workspace](https://github.com/github-copilot/workspace_waitlist_signup/join) - Copilot-native development environment for planning and implementing multi-file changes
-
+- [Copilot-powered code reviews](https://github.com/github-copilot/code-review-waitlist) - GitHub introduces an AI-powered code review tool with Copilot, providing quick feedback and optimized suggestions directly in pull requests.
 
 ## Productivity
 
