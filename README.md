@@ -16,6 +16,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 - [Exa](https://exa.ai/websets) - AI-verified semantic search with clean interface and natural language queries
 - [Reka Space](https://www.reka.ai/space) - AI-powered infinite canvas that transforms ideas into actions. Features non-linear conversations, customizable memory, and interactive AI agents for collaborative brainstorming and project planning.
+- [aaru](https://aaruaaru.com/) - Aaru creates simulation software to predict future events by modeling entire populations. Users can test scenarios, explore impacts, and make better decisions. 
 
 ## Developer Tools
 
