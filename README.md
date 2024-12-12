@@ -33,6 +33,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 - [Notion Mail](https://www.notion.com/product/mail) - Modern email client with AI-powered organization and automation
 - [Diabrowser](https://www.diabrowser.com/) - AI won’t exist as an app. Or a button. it’ll be an entirely new environment built on top of a web browser.
 - [Raycast for Windows](https://www.raycast.com/windows) - The popular developer productivity tool with AI features, clipboard history, window management, and extensible command palette coming to Windows
+- [tldraw's Nature Language computing](https://computer.tldraw.com/) - tldraw's new project, "Computer", uses the Gemini API to enable AI-powered visual programming, letting users create dynamic workflows on an infinite canvas using natural language, interconnected components, and multi-modal data generation, revolutionizing diagramming and AI-driven processes.
 
 ## Others
 
