@@ -22,6 +22,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 *Future developer tools*
 
+- [Warp for Windows](https://www.windows-when.com/) - Warp is a modern, AI-powered terminal designed to enhance developer productivity with features like IDE-style editing, intelligent command suggestions, and collaborative tools, and is coming soon for Windows.
 - [jules](https://labs.google.com/jules/waitlist) - Google's experimental AI coding assistant, Jules, automatically fixes coding errors in Python and JavaScript within GitHub workflows, enhancing developer productivity.
 - [GitHub Spark](https://github.com/github_spark_waitlist_signup/join) - AI-powered platform for creating and sharing personalized micro apps without code
 - [GitHub Copilot Workspace](https://github.com/github-copilot/workspace_waitlist_signup/join) - Copilot-native development environment for planning and implementing multi-file changes
