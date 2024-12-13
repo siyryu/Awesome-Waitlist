@@ -22,6 +22,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 *Future developer tools*
 
+- [jules](https://labs.google.com/jules/waitlist) - Google's experimental AI coding assistant, Jules, automatically fixes coding errors in Python and JavaScript within GitHub workflows, enhancing developer productivity.
 - [GitHub Spark](https://github.com/github_spark_waitlist_signup/join) - AI-powered platform for creating and sharing personalized micro apps without code
 - [GitHub Copilot Workspace](https://github.com/github-copilot/workspace_waitlist_signup/join) - Copilot-native development environment for planning and implementing multi-file changes
 - [Copilot-powered code reviews](https://github.com/github-copilot/code-review-waitlist) - GitHub introduces an AI-powered code review tool with Copilot, providing quick feedback and optimized suggestions directly in pull requests.
@@ -30,6 +31,7 @@ A curated list of stunning landing pages and waitlists for upcoming products.
 
 *Future productivity apps*
 
+- [Project Mariner](https://deepmind.google/technologies/project-mariner/) - Google DeepMind's Project Mariner is an AI research prototype that automates tasks within your browser by understanding and interacting with web elements like text, images, and forms, enhancing user efficiency and control.
 - [Notion Mail](https://www.notion.com/product/mail) - Modern email client with AI-powered organization and automation
 - [Diabrowser](https://www.diabrowser.com/) - AI won’t exist as an app. Or a button. it’ll be an entirely new environment built on top of a web browser.
 - [Raycast for Windows](https://www.raycast.com/windows) - The popular developer productivity tool with AI features, clipboard history, window management, and extensible command palette coming to Windows
