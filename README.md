@@ -1,6 +1,23 @@
 # Awesome Waitlist [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of stunning landing pages and waitlists for upcoming products. 
+Welcome to the Awesome Waitlist! A curated collection of exciting landing pages and waitlists for upcoming products. As someone passionate about discovering new ideas, I love collecting these early-stage innovations. They may just be promises today, but I can’t wait to see them come to life! Why not publish your own first waitlist? If you have an awesome idea, feel free to @ me and share it!
+
+```
+  /$$$$$$  /$$  /$$  /$$  /$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$ 
+ |____  $$| $$ | $$ | $$ /$$__  $$ /$$_____/ /$$__  $$| $$_  $$_  $$ /$$__  $$
+  /$$$$$$$| $$ | $$ | $$| $$$$$$$$|  $$$$$$ | $$  \ $$| $$ \ $$ \ $$| $$$$$$$$
+ /$$__  $$| $$ | $$ | $$| $$_____/ \____  $$| $$  | $$| $$ | $$ | $$| $$_____/
+|  $$$$$$$|  $$$$$/$$$$/|  $$$$$$$ /$$$$$$$/|  $$$$$$/| $$ | $$ | $$|  $$$$$$$
+ \_______/ \_____/\___/  \_______/|_______/  \______/ |__/ |__/ |__/ \_______/                                                      
+                         /$$   /$$     /$$ /$$             /$$                
+                        |__/  | $$    | $$|__/            | $$                
+ /$$  /$$  /$$  /$$$$$$  /$$ /$$$$$$  | $$ /$$  /$$$$$$$ /$$$$$$              
+| $$ | $$ | $$ |____  $$| $$|_  $$_/  | $$| $$ /$$_____/|_  $$_/              
+| $$ | $$ | $$  /$$$$$$$| $$  | $$    | $$| $$|  $$$$$$   | $$                
+| $$ | $$ | $$ /$$__  $$| $$  | $$ /$$| $$| $$ \____  $$  | $$ /$$            
+|  $$$$$/$$$$/|  $$$$$$$| $$  |  $$$$/| $$| $$ /$$$$$$$/  |  $$$$/            
+ \_____/\___/  \_______/|__/   \___/  |__/|__/|_______/    \___/              
+```
 
 ## Contents
 
