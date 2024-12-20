@@ -19,6 +19,10 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
  \_____/\___/  \_______/|__/   \___/  |__/|__/|_______/    \___/              
 ```
 
+## News🔥
+
+[2024/12/19] tldraw computer is shipped and removed from the waitlist. You can try it here! -> [tldraw compute](https://computer.tldraw.com/)
+
 ## Contents
 
 - [AI & Machine Learning](#ai--machine-learning)
@@ -67,6 +71,10 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 - [OpenSea](https://opensea.io/waitlist) - A new OpenSea is coming. December 2024.
 - [Anime.com](https://www.anime.com/) - A new way to anime. Developed by Azuki in partnership with Aniplex of America and Arbitrum Foundation, bringing web3 innovation to anime content, gaming, and collectibles. Features community-driven development and blockchain integration.
 - [.sonic domain](https://get.unstoppabledomains.com/sonic-waitlist/) - Unstoppable Domains has partnered with Sonic Labs to offer .sonic domains, providing users with unique digital identities within Sonic’s high-speed blockchain ecosystem. By joining the waitlist, you can secure your preferred .sonic domain before its public release. ￼
+
+## 🎉 Launched & No More Waiting! 🚀
+- [tldraw computer](https://computer.tldraw.com/) - A collaborative drawing tool now available to try! "Computer", uses the Gemini API to enable AI-powered visual programming, letting users create dynamic workflows on an infinite canvas using natural language, interconnected components, and multi-modal data generation, revolutionizing diagramming and AI-driven processes.
+
 
 ## Contributing
 
