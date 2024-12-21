@@ -22,6 +22,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 ## News🔥
 
 [2024/12/21] BeeCreate from 𝕏@hixiaoji added.
+
 [2024/12/19] tldraw computer is shipped and removed from the waitlist. You can try it here! -> [tldraw compute](https://computer.tldraw.com/)
 
 ## Contents
