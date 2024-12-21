@@ -21,6 +21,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 ## News🔥
 
+[2024/12/21] BeeCreate from 𝕏@hixiaoji added.
 [2024/12/19] tldraw computer is shipped and removed from the waitlist. You can try it here! -> [tldraw compute](https://computer.tldraw.com/)
 
 ## Contents
@@ -53,6 +54,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 *Future productivity apps*
 
+- [BeeCreate](https://beecreate.io/) - Effortlessly transform your notes into beautiful, shareable visual cards with customizable designs, consistent branding, and social media-ready formats—perfect for creators, influencers, and marketers.
 - [Project Mariner](https://deepmind.google/technologies/project-mariner/) - Google DeepMind's Project Mariner is an AI research prototype that automates tasks within your browser by understanding and interacting with web elements like text, images, and forms, enhancing user efficiency and control.
 - [Notion Mail](https://www.notion.com/product/mail) - Modern email client with AI-powered organization and automation
 - [Diabrowser](https://www.diabrowser.com/) - AI won’t exist as an app. Or a button. it’ll be an entirely new environment built on top of a web browser.
