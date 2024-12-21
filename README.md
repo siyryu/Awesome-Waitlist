@@ -20,6 +20,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 ```
 
 ## News🔥
+[2024/12/21] Morphic is added.
 
 [2024/12/21] fractionai is added.
 
@@ -71,6 +72,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 *Other innovative products*
 
+- [Morphic](https://www.morphic.com/) - Morphic is an AI-driven platform that empowers creators, filmmakers, and animators to produce high-quality stories by automating tasks and enhancing creative workflows.  Its flagship product, Morphic Studio, offers tools for frame generation, character animation, and in-depth frame editing, adapting to users' unique styles to optimize the storytelling process.
 - [werebuilding.ai](https://werebuilding.ai/) - A startup jointly founded by three former Google employees. They had previously participated in the development and productization of NotebookLM at Google. No one knows what they are up to.
 
 ## Web3 & NFT
