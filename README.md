@@ -21,6 +21,8 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 ## News🔥
 
+[2024/12/21] Savepad from 𝕏@gunnyganatra added.
+
 [2024/12/21] BeeCreate from 𝕏@hixiaoji added.
 
 [2024/12/19] tldraw computer is shipped and removed from the waitlist. You can try it here! -> [tldraw compute](https://computer.tldraw.com/)
@@ -55,6 +57,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 *Future productivity apps*
 
+- [Savepad](https://savepad.app/) - Savepad is a collaborative platform that enables teams to store, organize, reference, and share various online resources and examples, enhancing productivity and collaboration. 
 - [BeeCreate](https://beecreate.io/) - Effortlessly transform your notes into beautiful, shareable visual cards with customizable designs, consistent branding, and social media-ready formats—perfect for creators, influencers, and marketers.
 - [Project Mariner](https://deepmind.google/technologies/project-mariner/) - Google DeepMind's Project Mariner is an AI research prototype that automates tasks within your browser by understanding and interacting with web elements like text, images, and forms, enhancing user efficiency and control.
 - [Notion Mail](https://www.notion.com/product/mail) - Modern email client with AI-powered organization and automation
