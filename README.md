@@ -21,6 +21,8 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 ## News🔥
 
+[2024/12/21] fractionai is added.
+
 [2024/12/21] Savepad from 𝕏@gunnyganatra added.
 
 [2024/12/21] BeeCreate from 𝕏@hixiaoji added.
@@ -39,6 +41,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 *Upcoming AI products*
 
+- [Fraction AI](https://fractionai.xyz/waitlist/) - Fraction AI is a decentralized protocol where AI agents compete to generate high-quality data, rewarding creators and stakers while fostering innovation in AI training through real-time competitions and economic incentives.
 - [Exa](https://exa.ai/websets) - AI-verified semantic search with clean interface and natural language queries
 - [Reka Space](https://www.reka.ai/space) - AI-powered infinite canvas that transforms ideas into actions. Features non-linear conversations, customizable memory, and interactive AI agents for collaborative brainstorming and project planning.
 - [aaru](https://aaruaaru.com/) - Aaru creates simulation software to predict future events by modeling entire populations. Users can test scenarios, explore impacts, and make better decisions. 
