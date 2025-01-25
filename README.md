@@ -20,6 +20,8 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 ```
 
 ## News🔥
+[2024/1/25] Adam is added.
+
 [2024/12/21] Morphic is added.
 
 [2024/12/21] fractionai is added.
@@ -42,6 +44,7 @@ Welcome to the Awesome Waitlist! A curated collection of exciting landing pages 
 
 *Upcoming AI products*
 
+- [Adam CAD](https://www.adamcad.com/) - Adam CAD allows users to generate detailed 3D CAD models instantly by describing their ideas in natural language, streamlining industrial design and engineering workflows.
 - [Fraction AI](https://fractionai.xyz/waitlist/) - Fraction AI is a decentralized protocol where AI agents compete to generate high-quality data, rewarding creators and stakers while fostering innovation in AI training through real-time competitions and economic incentives.
 - [Exa](https://exa.ai/websets) - AI-verified semantic search with clean interface and natural language queries
 - [Reka Space](https://www.reka.ai/space) - AI-powered infinite canvas that transforms ideas into actions. Features non-linear conversations, customizable memory, and interactive AI agents for collaborative brainstorming and project planning.
